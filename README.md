@@ -2,7 +2,7 @@
 
 EnderCarryOn es un plugin para PaperMC basado en el mod CarryOn. Esta versión ha sido adaptada específicamente para **Minecraft 1.20.6**, utilizando `CustomModelData` para las texturas de carga.
 
-## Características
+## Features
 - Carga de Cofres, Cofres Trampa, Ender Chests y Barriles.
 - Restricciones de movimiento e interacción mientras se carga un bloque.
 - Renderizado 3D del bloque cargado en las manos del jugador (requiere Resource Pack).
@@ -13,18 +13,18 @@ Este plugin **requiere** [EnderCore](https://github.com/JackStar6677-1/EnderCore
 ## 🎨 Resource Pack (Requerido)
 Para la versión 1.20.6, el sistema de texturas nativo de 1.21.3 no funciona. Por ello, es **obligatorio** usar el Resource Pack adaptado incluido en este repositorio.
 
-### Instalación del Resource Pack:
+### Installation del Resource Pack:
 1. Descarga el archivo [**resourcepack.zip**](./resourcepack.zip) de este repositorio.
 2. Puedes instalarlo localmente en tu cliente (`.minecraft/resourcepacks`).
 3. **Recomendado**: Súbelo a un host (como Dropbox o MCPacks) y coloca el enlace en la `config.yml` del plugin para que los jugadores lo descarguen automáticamente al entrar.
 
-## Configuración
+## Configuration
 En el `config.yml`, puedes ajustar:
 - `resource_pack.use`: Activa/Desactiva el envío automático del pack.
 - `resource_pack.url`: El link de descarga directa de tu Resource Pack.
 - `resource_pack.hash`: El hash SHA-1 (en minúsculas) del archivo zip.
 
-## Uso
+## Usage
 - **Shift (Agacharse) + Clic Derecho** con la **mano vacía** sobre un bloque válido para cargarlo.
 - Para soltarlo, simplemente haz clic derecho de nuevo.
 
@@ -32,5 +32,5 @@ En el `config.yml`, puedes ajustar:
 Basado en el mod **CarryOn** y el plugin original de **Endkind**.
 Esta versión 1.20.6 fue adaptada por JackStar6677-1.
 
-## Licencia
+## License
 Este proyecto está bajo la licencia [MIT](LICENSE).
