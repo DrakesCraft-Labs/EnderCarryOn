@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/EnderCarryOn/main/banner.svg" width="100%" alt="ENDER CARRYON animated banner" />
+</p>
+
 # EnderCarryOn (1.20.6 Port)
 
 EnderCarryOn es un plugin para PaperMC basado en el mod CarryOn. Esta versión ha sido adaptada específicamente para **Minecraft 1.20.6**, utilizando `CustomModelData` para las texturas de carga.
@@ -34,3 +38,4 @@ Esta versión 1.20.6 fue adaptada por JackStar6677-1.
 
 ## License
 Este proyecto está bajo la licencia [MIT](LICENSE).
+
